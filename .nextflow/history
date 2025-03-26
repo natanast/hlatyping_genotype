@@ -1,0 +1,14 @@
+2025-03-24 12:58:11	-	crazy_caravaggio	-	01261601260198a23ac4c66a82a39948	8ff5ee3b-80d5-4cb0-9a28-4642fcae94c6	nextflow run ./modules/nf-core/hlagenotype/main.nf --help
+2025-03-24 14:59:01	-	ridiculous_gates	-	de5741e7e41ddbe8839d637c6e25bfce	54744f62-3bc2-4a07-b511-c67f61e133bd	nextflow run main.nf
+2025-03-24 14:59:37	3s	fabulous_ptolemy	ERR	72baebbd31c41ce57424dbe097a5ecaf	a1219947-a17f-45d6-8dcc-2e5f9a6cb861	nextflow run main.nf
+2025-03-24 15:03:20	-	peaceful_agnesi	-	bd14bf9fe5f07952160d56d6ea25b404	7baef9a4-4062-4e51-8290-e6d247982cfe	nextflow run main.nf
+2025-03-24 15:03:52	-	backstabbing_sammet	-	b6ee57b73c879041b2ec22b1d8458355	9f193c96-95a4-4e67-8e02-7b51e7e2c3e2	nextflow run main.nf
+2025-03-24 15:04:25	-	adoring_cantor	-	9e8e56bc8a5397fca5f2510b4792a0df	bf2a127e-fc1e-47f2-a01c-0043b4247e82	nextflow run main.nf
+2025-03-24 15:05:13	4s	modest_sammet	ERR	a18cd7dae8f5e02648b20d4374f2fae0	da060a36-b564-40eb-99c9-d1d3c4675aa2	nextflow run main.nf
+2025-03-24 15:08:50	3s	fabulous_shaw	ERR	32ac75ce65862338b9a1594dce01c149	84248476-2ab8-4b9f-ac4b-b48dc40c86e8	nextflow run main.nf
+2025-03-24 15:11:39	6.9s	awesome_turing	ERR	969a5eb3ac45c22ff652b6117db8c525	3535101d-cb68-4c85-8d22-f6ea7749d233	nextflow run main.nf
+2025-03-24 15:12:42	-	cranky_carlsson	-	afa98b240a4924b3dd23d1a1ad4c48fc	575fbef2-1bb9-4629-93a3-8a4747161a9c	nextflow run main.nf
+2025-03-24 15:14:15	-	ridiculous_payne	-	969a5eb3ac45c22ff652b6117db8c525	fa577e19-cc14-4782-a067-0b309fe4abea	nextflow run main.nf -entry ARCASHLA_EXTRACT
+2025-03-24 15:16:03	6.4s	wise_elion	ERR	c5d6f35cd1504a03a9ee7afe0d0692a7	f890c910-4b84-41b7-b2a2-f44d22606a06	nextflow run main.nf
+2025-03-24 15:25:14	8.5s	evil_boyd	ERR	c5d6f35cd1504a03a9ee7afe0d0692a7	a5a0bcd2-84b0-403b-b489-49744864205d	nextflow run main.nf -with-docker 'quay.io/biocontainers/arcas-hla:0.5.0--hdfd78af_0'
+2025-03-24 15:32:38	7.3s	sleepy_marconi	ERR	28d4b31599aefb0876b6a14d525ec1f2	a01e7e54-478f-4483-9c5f-c868ae47d52a	nextflow run main.nf
